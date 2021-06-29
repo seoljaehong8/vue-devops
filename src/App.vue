@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Jaehong Seol every App" />
+  <HelloWorld msg="hello" />
+  <!-- <HelloWorld msg="Welcome to Jaehong Seol every App" /> -->
 </template>
 
 <script>
